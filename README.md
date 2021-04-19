@@ -2,36 +2,11 @@
 
 Explore o espaço com o Python e o Visual Studio Code; inspirado pelo filme da Netflix "A Caminho da Lua"
 
-<ul class="metadata page-metadata">
-								<li id="time-remaining">2 h 9 min</li>
-								<li>
-									Roteiro de aprendizagem
-								</li>
-								<li id="modules-remaining">
-									3 Módulos
-								</li>
-</ul>
+2 h 9 min | Roteiro de aprendizagem | 3 Módulos
+-----------------------------------------------
 
-<div class="is-size-small tags has-margin-top-small has-margin-bottom-small is-hidden-portrait">
-							<div class="tag is-size-extra-small">
-								Iniciante
-							</div>
-							<div class="tag is-size-extra-small">
-								Cientista de Dados
-							</div>
-							<div class="tag is-size-extra-small">
-								Desenvolvedor
-							</div>
-							<div class="tag is-size-extra-small">
-								Estudante
-							</div>
-							<div class="tag is-size-extra-small">
-								Visão Personalizada
-							</div>
-							<div class="tag is-size-extra-small">
-								Visual Studio Code
-							</div>
-</div>
+Iniciante | Cientista de Dados | Desenvolvedor | Estudante | Visão Personalizada | Visual Studio Code
+-----------------------------------------------------------------------------------------------------
 
 Aprender a codificar às vezes parece estar fora do nosso alcance. Mas as pessoas que cruzaram a atmosfera, orbitaram ao redor da Terra ou andaram na lua nos mostraram que mesmo as metas mais distantes exigem determinação e dedicação. Neste roteiro de aprendizagem, veremos esses temas na história A Caminho da Lua.
 
