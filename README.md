@@ -10,6 +10,8 @@ Explore o espaço com o Python e o Visual Studio Code; inspirado pelo filme da N
 | Iniciante | Cientista de Dados | Desenvolvedor | Estudante | Visão Personalizada | Visual Studio Code |
 |-----------|--------------------|---------------|-----------|---------------------|--------------------|
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Aprender a codificar às vezes parece estar fora do nosso alcance. Mas as pessoas que cruzaram a atmosfera, orbitaram ao redor da Terra ou andaram na lua nos mostraram que mesmo as metas mais distantes exigem determinação e dedicação. Neste roteiro de aprendizagem, veremos esses temas na história A Caminho da Lua.
 
 A Caminho da Lua é um filme sobre Fei Fei, uma garotinha que constrói um foguete para viajar até a lua em uma missão a fim de provar a existência de uma lendária deusa da lua. A garota é impulsionada pelas memórias e pelo amor da mãe a usar a determinação e a imaginação para conquistar algo que está além deste mundo: chegar à lua. Embora a história ocorra em um universo lindamente desenhado, ela está diretamente relacionada aos tipos de problemas que engenheiros reais enfrentam enquanto se preparam e executam missões para a lua e além dela.
@@ -22,3 +24,5 @@ Nestes módulos, você vai aprender a:
 * Usar Python para explorar, limpar e manipular dados
 * Garantem que sejam aplicadas práticas éticas ao longo do desenvolvimento de IA
 * Treinar um modelo de IA de Visão Personalizada sobre um animal específico
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
