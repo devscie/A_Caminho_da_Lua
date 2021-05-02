@@ -34,4 +34,4 @@ Nestes módulos, você vai aprender a:
 >[Módulo III]()<br><br>
 
 
-_In Contrution!_
+_Fonte: (https://docs.microsoft.com/pt-br/learn/paths/explore-space-using-python/)_
