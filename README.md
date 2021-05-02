@@ -23,7 +23,7 @@ Nestes módulos, você vai aprender a:
 * Agregar dados de várias fontes em DataFrames do pandas
 * Usar Python para explorar, limpar e manipular dados
 * Garantem que sejam aplicadas práticas éticas ao longo do desenvolvimento de IA
-* Treinar um modelo de IA de Visão Personalizada sobre um animal específico
+* Treinar um modelo de IA de Visão Personalizada sobre um animal específico<br><br>
 
 >[Módulo I](https://github.com/devscie/A_Caminho_da_Lua/tree/main/M%C3%B3dulo%20I)<br><br>
 
