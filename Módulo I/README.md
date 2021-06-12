@@ -38,4 +38,4 @@
 >[Resumo](https://github.com/devscie/A_Caminho_da_Lua/blob/main/M%C3%B3dulo%20I/Resumo.md)
 >(2 min)<br><br>
 
->[Código Completo](https://github.com/devscie/A_Caminho_da_Lua/blob/main/M%C3%B3dulo%20I/sample-return/sample-return.ipynb)<br><br>
+>[Código Completo](https://github.com/devscie/A_Caminho_da_Lua/blob/main/M%C3%B3dulo%20I/codigo/missao1.ipynb)<br><br>
